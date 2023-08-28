@@ -1,3 +1,2 @@
-print("hello world")
-print(2+100)
-print(5%2)
+name=input("enter your name")
+print(name)
