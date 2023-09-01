@@ -11,4 +11,4 @@
 |---|------|-------------|
 |1|23-08-23|Program and push to GitHub|
 |2|28-08-23|Program to record and analyse unique names|
-
+|3|01-09-23|Program to calculate mean,min,max,range of a list os nmbers|
