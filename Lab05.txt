@@ -1,0 +1,42 @@
+New file created and 100 orders are recorded
+
+Row Number     Item     Quantity     Price     Total Price
+Row1           dish6       5          85         425
+Row2           dish9       12          45         540
+Row3           dish7       7          55         385
+Row4           dish10       12          85         1020
+Row5           dish4       9          85         765
+Row91           dish6       7          85         595
+Row92           dish3       1          90         90
+Row93           dish5       2          55         110
+Row94           dish5       2          65         130
+Row95           dish3       5          30         150
+Row96           dish5       9          30         270
+Row97           dish2       4          45         180
+Row98           dish7       10          90         900
+Row99           dish8       9          55         495
+Row100           dish1       5          30         150
+
+Item     Total Quantity     Total
+dish1          64            4070
+dish2          106            5825
+dish3          45            2650
+dish4          34            2745
+dish5          64            4045
+dish6          53            2870
+dish7          48            3590
+dish8          60            3190
+dish9          60            3315
+dish10          32            2545
+
+Item     Maximum     Minimum
+dish1        780            40
+dish2        765            100
+dish3        720            45
+dish4        850            85
+dish5        960            110
+dish6        595            170
+dish7        1080            85
+dish8        960            60
+dish9        630            30
+dish10        1020            40
