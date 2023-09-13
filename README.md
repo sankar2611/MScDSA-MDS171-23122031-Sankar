@@ -2,7 +2,6 @@
 Name: Sankar Murugan   
 Reg No: 23122031  
 Class: MScDSA   
-Email: sankar.murugan@msds.christuniversity.inMDS171 - Python Programming Lab*
----
+Email: sankar.murugan@msds.christuniversity.in
 
 
