@@ -17,3 +17,4 @@ Email: sankar.murugan@msds.christuniversity.in
 |7|15-09-2023|Menu Driven Restaurant Management system|[lab07](https://github.com/sankar2611/MScDSA-MDS171-23122031-Sankar/blob/8018189b84130ee9091e5910ed1ba6f4adb0d222/Lab%2007.ipynb)
 |8|18-09-2023|Matrix Multiplication|[Lab08](https://github.com/sankar2611/MScDSA-MDS171-23122031-Sankar/blob/11eddd44bc47a49c0c3466987db9ae631a01618f/Lab%2008.ipynb)
 |9|22-09-2023|Expense Income TRacker|[Lab09](https://github.com/sankar2611/MScDSA-MDS171-23122031-Sankar/blob/11eddd44bc47a49c0c3466987db9ae631a01618f/Lab%2009/Lab%2009.ipynb)
+|10|26-10-2023|Student's details management|[Lab10](https://github.com/sankar2611/MScDSA-MDS171-23122031-Sankar/blob/604afdde402e2113fc56782ac9b34aafe29b4007/Labs/Lab%2010.ipynb)
